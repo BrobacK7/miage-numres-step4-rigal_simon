@@ -25,9 +25,12 @@ Réponse: 27 clicks ! En utilisant Tab et entrer.
 
 # Q5: Donner 3 roles ARIA et 3 propriété ARIA
 Réponse:
+Les rôles ARIA permettent de définir la fonction d’un élément, par exemple button, navigation ou alert.
+
+Les propriétés ARIA permettent de donner des informations supplémentaires sur un élément, comme aria-label, aria-hidden ou aria-expanded.
 
 # Q6: Ajouter le screen de votre score Lighthouse
-Screen:
+Screen: ![alt text](image-1.png)
 
 # Q7: L'une des best practice de l'ARIA est "ne pas utiliser l'ARIA" pouvez nous expliquer pourquoi d'après vous ?
 Réponse:

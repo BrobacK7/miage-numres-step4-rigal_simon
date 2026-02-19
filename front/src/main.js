@@ -9,26 +9,26 @@ document.querySelector('#app').innerHTML = `
 
 
         <div class="topnav">
-          <a href="#" class="fa fa-facebook"></a>
-          <a href="#" class="fa fa-twitter"></a>
-          <a href="#" class="fa fa-google"></a>
-          <a href="#" class="fa fa-linkedin"></a>
-          <a href="#" class="fa fa-youtube"></a>
-          <a href="#" class="fa fa-instagram"></a>
-          <a href="#" class="fa fa-pinterest"></a>
-          <a href="#" class="fa fa-snapchat-ghost"></a>
-          <a href="#" class="fa fa-skype"></a>
-          <a href="#" class="fa fa-android"></a>
-          <a href="#" class="fa fa-dribbble"></a>
-          <a href="#" class="fa fa-vimeo"></a>
-          <a href="#" class="fa fa-tumblr"></a>
-          <a href="#" class="fa fa-vine"></a>
-          <a href="#" class="fa fa-foursquare"></a>
-          <a href="#" class="fa fa-stumbleupon"></a>
-          <a href="#" class="fa fa-flickr"></a>
-          <a href="#" class="fa fa-yahoo"></a>
-          <a href="#" class="fa fa-reddit"></a>
-          <a href="#" class="fa fa-rss"></a>
+          <a href="#" class="fa fa-facebook" alt="icone facebook"></a>
+          <a href="#" class="fa fa-twitter" alt="icone twitter"></a>
+          <a href="#" class="fa fa-google" alt="icone google"></a>
+          <a href="#" class="fa fa-linkedin" alt="icone linkedin"></a>
+          <a href="#" class="fa fa-youtube" alt="icone youtube"></a>
+          <a href="#" class="fa fa-instagram" alt="icone instagram"></a>
+          <a href="#" class="fa fa-pinterest" alt="icone pinterest"></a>
+          <a href="#" class="fa fa-snapchat-ghost" alt="icone snapchat"></a>
+          <a href="#" class="fa fa-skype" alt="icone skype"></a>
+          <a href="#" class="fa fa-android" alt="icone android"></a>
+          <a href="#" class="fa fa-dribbble" alt="icone dribbble"></a>
+          <a href="#" class="fa fa-vimeo" alt="icone vimeo"></a>
+          <a href="#" class="fa fa-tumblr" alt="icone tumblr"></a>
+          <a href="#" class="fa fa-vine" alt="icone vine"></a>
+          <a href="#" class="fa fa-foursquare" alt="icone foursquare"></a>
+          <a href="#" class="fa fa-stumbleupon" alt="icone stumbleupon"></a>
+          <a href="#" class="fa fa-flickr" alt="icone flickr"></a>
+          <a href="#" class="fa fa-yahoo" alt="icone yahoo"></a>
+          <a href="#" class="fa fa-reddit" alt="icone reddit"></a>
+          <a href="#" class="fa fa-rss" alt="icone rss"></a>
         </div>
 
         <div class="row">
@@ -45,7 +45,7 @@ document.querySelector('#app').innerHTML = `
           </div>
           <div class="rightcolumn">
             <div class="card">
-              <img src="/question.png" width="500" height="600">
+              <img src="/question.png" width="500" height="600" alt="point d'interrogation">
             </div>
         </div>
 
